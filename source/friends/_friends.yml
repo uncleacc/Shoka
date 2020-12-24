@@ -1,0 +1,83 @@
+- site: 優萌初華
+  owner: 霜月琉璃
+  url: https://shoka.lostyu.me
+  desc: 琉璃的医学 & 编程笔记
+  image: https://cdn.jsdelivr.net/gh/amehime/shoka@latest/images/avatar.jpg
+  color: "#ffcc33"
+
+- site: cungudafa
+  owner: cungudafa
+  url: https://cungudafa.gitee.io/
+  desc: 一个学习记录者
+  image: https://cdn.jsdelivr.net/gh/cungudafa/cdn/img/custom/cungudafa.jpg
+  color: "#ffcc33"
+
+- site: 雪曦
+  owner: 雪曦
+  url: https://xiabor.com
+  desc: 君浅吟，叹落笔
+  image: https://xiabor.com/img/avatar.png
+  color: "#ffcc33"
+
+- site: 叶落阁
+  owner: 叶落阁
+  url: http://yelog.org/2017/02/24/hexo-top-sort/
+  desc: 大佬大佬
+  image: http://yelog.org/img/avatar.jpg
+  color: "#ffcc33"
+
+- site: GamerNoTitle
+  owner: GamerNoTitle
+  url: https://bili33.top
+  desc: 一个在懵懂无知中成长的高中生程序员^V^
+  image: https://cdn.jsdelivr.net/gh/GamerNoTitle/Picture-repo@1.0/AboutMe/logo-mini.png
+  color: "#ffcc33"
+
+- site: 小康博客
+  owner: 小康博客
+  url: https://www.antmoe.com/
+  desc: 一个收藏回忆与分享技术的地方！
+  image: https://cdn.jsdelivr.net/gh/sviptzk/HexoStaticFile@latest/avatar.jpg
+  color: "#ffcc33"
+
+- site: 折纸少年
+  owner: 折纸少年
+  url: https://zzsnn.github.io/
+  desc: 活着不一定要鲜:但一定要有自己的颜色
+  image: https://cdn.jsdelivr.net/gh/Thefine/thefine.github.io/img/avatar.jpg
+  color: "#ffcc33"
+
+- site: maple `s Blog
+  owner: maple `s Blog
+  url: https://www.hongmaple.xyz/
+  desc: 用代码装饰生活
+  image: https://www.hongmaple.xyz/img/friend_404.gif
+  color: "#ffcc33"
+
+- site: wallleap
+  owner: wallleap
+  url: https://wallleap.gitee.io/blog/
+  desc: 今日事,今日畢
+  image: https://cdn.jsdelivr.net/gh/wallleap/cdn@2.4/img/custom/avatar.jpg
+  color: "#ffcc33"
+
+- site: 闻鸡起舞
+  owner: 闻鸡起舞
+  url: https://hexo.yuanjh.cn
+  desc: 逝者如斯夫，不舍昼夜(IT,Java,Python,Web,量化,机器学习)
+  image: https://hexo.yuanjh.cn/images_out/avatar.png
+  color: "#ffcc33"
+
+- site: 乡树
+  owner: 乡树
+  url: https://www.xiangshu233.cn
+  desc: 谁会给你制定做事的规矩，除了你自己 那还有谁
+  image: https://cdn.jsdelivr.net/gh/xiangshu233/cdn@1/img/custom/avatar.jpg
+  color: "#ffcc33"
+
+- site: 迷鹿
+  owner: 迷鹿
+  url: https://www.lostfawn.cn
+  desc: 等待也是约会的一部分嘛
+  image: https://cdn.jsdelivr.net/gh/jack-bin183/cdn@1.7/img/custom/avatar.png
+  color: "#ffcc33"

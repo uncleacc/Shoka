@@ -1,0 +1,24 @@
+- site: Uncle_ac blog
+  owner: Uncleacc
+  url: https://uncleacc.top
+  desc: 本站
+  image: https://cdn.jsdelivr.net/gh/uncleacc/cdn@1.5/img/custom/avatar.png
+  color: "#e9546b"
+- site: Uncle_ac blog
+  owner: Uncleacc
+  url: https://cdn.jsdelivr.net/gh/uncleacc/Img/
+  desc: Github图床
+  image: https://raw.githubusercontent.com/uncleacc/Sucai/master/img/20201224090345.png
+  color: "#e9546b"
+- site: Uncle_ac blog
+  owner: Uncleacc
+  url: https://www.fezhu.top
+  desc: Sakura
+  image: https://cdn.jsdelivr.net/gh/uncleacc/cdn@1.5/img/custom/avatar.png
+  color: "#e9546b"
+- site: Leancould
+  owner: Uncleacc
+  url: https://leancloud.cn/dashboard/applist.html#/apps
+  desc: Leancould
+  image: https://raw.githubusercontent.com/uncleacc/Sucai/master/img/20201224090115.jpg
+  color: "#e9546b"
