@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://uncleacc.top/2020/11/23/bzyutarjan/</loc>
+    
+    <lastmod>2020-12-25</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://uncleacc.top/2020/12/10/BeautifyWin10/</loc>
     
     <lastmod>2020-12-24</lastmod>
@@ -380,13 +387,6 @@
   </url>
   
   <url>
-    <loc>http://uncleacc.top/2020/11/23/bzyutarjan/</loc>
-    
-    <lastmod>2020-12-23</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://uncleacc.top/2020/09/24/boyilun/</loc>
     
     <lastmod>2020-12-23</lastmod>
@@ -431,6 +431,13 @@
   </url>
   
   <url>
+    <loc>http://uncleacc.top/tags/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/</loc>
+    <lastmod>2020-12-25</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://uncleacc.top/tags/win10/</loc>
     <lastmod>2020-12-25</lastmod>
     <changefreq>daily</changefreq>
@@ -452,13 +459,6 @@
   </url>
   
   <url>
-    <loc>http://uncleacc.top/tags/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/</loc>
-    <lastmod>2020-12-25</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>http://uncleacc.top/tags/Github/</loc>
     <lastmod>2020-12-25</lastmod>
     <changefreq>daily</changefreq>
@@ -466,14 +466,14 @@
   </url>
   
   <url>
-    <loc>http://uncleacc.top/tags/%E7%AE%97%E6%B3%95/</loc>
+    <loc>http://uncleacc.top/tags/KMP/</loc>
     <lastmod>2020-12-25</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>http://uncleacc.top/tags/KMP/</loc>
+    <loc>http://uncleacc.top/tags/%E7%AE%97%E6%B3%95/</loc>
     <lastmod>2020-12-25</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -543,14 +543,14 @@
   </url>
   
   <url>
-    <loc>http://uncleacc.top/tags/%E9%AB%98%E7%B2%BE/</loc>
+    <loc>http://uncleacc.top/tags/dfs/</loc>
     <lastmod>2020-12-25</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>http://uncleacc.top/tags/dfs/</loc>
+    <loc>http://uncleacc.top/tags/%E9%AB%98%E7%B2%BE/</loc>
     <lastmod>2020-12-25</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
