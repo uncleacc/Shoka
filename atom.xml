@@ -12,9 +12,9 @@
     <category term="博客" />
     <category term="学习" />
     <entry>
-        <id>http://uncleacc.top/2020/12/10/BeautifyWin10/</id>
+        <id>http://uncleacc.top/BeautifyWin10.html</id>
         <title>win10美化</title>
-        <link rel="alternate" href="http://uncleacc.top/2020/12/10/BeautifyWin10/"/>
+        <link rel="alternate" href="http://uncleacc.top/BeautifyWin10.html"/>
         <content type="html">&lt;blockquote&gt;
 &lt;p&gt;你是否还在为这丑陋的 window10 界面而叹气 (&lt;s&gt;win10 界面其实还可以&lt;/s&gt;)，你是否还在为怎么美化界面而烦恼？不用叹气，不用烦恼！这篇博客可以解决你的问题&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -54,9 +54,9 @@
         <updated>2020-12-10T13:48:52.000Z</updated>
     </entry>
     <entry>
-        <id>http://uncleacc.top/2020/11/30/Binary-Tree/</id>
+        <id>http://uncleacc.top/Binary-Tree.html</id>
         <title>Binary Tree</title>
-        <link rel="alternate" href="http://uncleacc.top/2020/11/30/Binary-Tree/"/>
+        <link rel="alternate" href="http://uncleacc.top/Binary-Tree.html"/>
         <content type="html">&lt;blockquote&gt;
 &lt;p&gt;实验目标：&lt;br /&gt;
 1、创建二叉树&lt;br /&gt;
@@ -96,9 +96,9 @@
         <updated>2020-11-30T14:11:18.000Z</updated>
     </entry>
     <entry>
-        <id>http://uncleacc.top/2020/11/23/bzyutarjan/</id>
+        <id>http://uncleacc.top/bzyutarjan.html</id>
         <title>倍增与tarjan求解lca</title>
-        <link rel="alternate" href="http://uncleacc.top/2020/11/23/bzyutarjan/"/>
+        <link rel="alternate" href="http://uncleacc.top/bzyutarjan.html"/>
         <content type="html">&lt;blockquote&gt;
 &lt;p&gt;&lt;strong&gt;倍增&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;以倍增方式向上跳，时间复杂度是 O (q*logn)&lt;/p&gt;
@@ -166,9 +166,9 @@
         <updated>2020-11-23T13:50:44.000Z</updated>
     </entry>
     <entry>
-        <id>http://uncleacc.top/2020/11/05/KMP/</id>
+        <id>http://uncleacc.top/KMP.html</id>
         <title>KMP</title>
-        <link rel="alternate" href="http://uncleacc.top/2020/11/05/KMP/"/>
+        <link rel="alternate" href="http://uncleacc.top/KMP.html"/>
         <content type="html">&lt;blockquote&gt;
 &lt;p&gt;暑假学习了 KMP，奈何掌握不深，现在又来复习，结果又是从零开始&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -204,9 +204,9 @@
         <updated>2020-11-05T13:58:19.000Z</updated>
     </entry>
     <entry>
-        <id>http://uncleacc.top/2020/10/22/CCPC-iron-making-record/</id>
+        <id>http://uncleacc.top/CCPC-iron-making-record.html</id>
         <title>CCPC打铁记</title>
-        <link rel="alternate" href="http://uncleacc.top/2020/10/22/CCPC-iron-making-record/"/>
+        <link rel="alternate" href="http://uncleacc.top/CCPC-iron-making-record.html"/>
         <content type="html">&lt;blockquote&gt;
 &lt;p&gt;2020 年 10 月 18 日，这一天是我第一次打比赛的日子，非常有纪念意义，但是时至今日我才补了这篇文章&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -221,9 +221,9 @@
         <updated>2020-10-22T04:18:00.000Z</updated>
     </entry>
     <entry>
-        <id>http://uncleacc.top/2020/09/29/LCA_problem/</id>
+        <id>http://uncleacc.top/LCA_problem.html</id>
         <title>LCA最小公共祖先</title>
-        <link rel="alternate" href="http://uncleacc.top/2020/09/29/LCA_problem/"/>
+        <link rel="alternate" href="http://uncleacc.top/LCA_problem.html"/>
         <content type="html">&lt;h2 id=&#34;lca-公共祖先&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#lca-公共祖先&#34;&gt;#&lt;/a&gt; LCA 公共祖先&lt;/h2&gt;
 &lt;p&gt;什么是最小公共祖先，顾名思义就是俩点最近的公共祖先&lt;/p&gt;
 &lt;p&gt;&lt;img data-src=&#34;https://cdn.luogu.com.cn/upload/pic/2282.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
@@ -296,9 +296,9 @@ int main()
         <updated>2020-09-29T13:44:21.000Z</updated>
     </entry>
     <entry>
-        <id>http://uncleacc.top/2020/09/24/boyilun/</id>
+        <id>http://uncleacc.top/boyilun.html</id>
         <title>博弈论</title>
-        <link rel="alternate" href="http://uncleacc.top/2020/09/24/boyilun/"/>
+        <link rel="alternate" href="http://uncleacc.top/boyilun.html"/>
         <content type="html">&lt;p&gt;&lt;strong&gt;注意注意注意：&lt;/strong&gt; 异或运算符优先级比等于还要低！！！！二进制的运算符尽量都加上括号&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;必胜状态后继节点一定有必败&lt;/li&gt;
@@ -384,9 +384,9 @@ M834 80h400000v40h-400000z&#39;/&gt;&lt;/svg&gt;&lt;/span&gt;&lt;/span&gt;&lt;/s
         <updated>2020-09-24T14:01:26.000Z</updated>
     </entry>
     <entry>
-        <id>http://uncleacc.top/2020/09/11/Millionaire-Madness/</id>
+        <id>http://uncleacc.top/Millionaire-Madness.html</id>
         <title>Millionaire Madness</title>
-        <link rel="alternate" href="http://uncleacc.top/2020/09/11/Millionaire-Madness/"/>
+        <link rel="alternate" href="http://uncleacc.top/Millionaire-Madness.html"/>
         <content type="html">&lt;blockquote&gt;
 &lt;p&gt;计蒜客之前比赛的一道题目，记录一下&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -437,9 +437,9 @@ M834 80h400000v40h-400000z&#39;/&gt;&lt;/svg&gt;&lt;/span&gt;&lt;/span&gt;&lt;/s
         <updated>2020-09-11T07:26:43.000Z</updated>
     </entry>
     <entry>
-        <id>http://uncleacc.top/2020/09/03/python-arrange/</id>
+        <id>http://uncleacc.top/python-arrange.html</id>
         <title>python_arrange</title>
-        <link rel="alternate" href="http://uncleacc.top/2020/09/03/python-arrange/"/>
+        <link rel="alternate" href="http://uncleacc.top/python-arrange.html"/>
         <content type="html">&lt;blockquote&gt;
 &lt;p&gt;写这个代码花了一个小时，因为刚学了一点点 OS 模块，还不是很熟悉，写完后功能也都有，但是！！！导出为 exe 文件时不小心误删了 py 文件，气死我了！又重新写了一遍。&lt;/p&gt;
 &lt;p&gt;新加了 GUI 界面的整理页面小程序，效果如下图所示&lt;/p&gt;
@@ -458,9 +458,9 @@ M834 80h400000v40h-400000z&#39;/&gt;&lt;/svg&gt;&lt;/span&gt;&lt;/span&gt;&lt;/s
         <updated>2020-09-03T10:43:13.000Z</updated>
     </entry>
     <entry>
-        <id>http://uncleacc.top/2020/08/16/qiantanhaxi/</id>
+        <id>http://uncleacc.top/qiantanhaxi.html</id>
         <title>浅谈哈希</title>
-        <link rel="alternate" href="http://uncleacc.top/2020/08/16/qiantanhaxi/"/>
+        <link rel="alternate" href="http://uncleacc.top/qiantanhaxi.html"/>
         <content type="html">&lt;blockquote&gt;
 &lt;p&gt;&lt;strong&gt;前言&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;趁着还没忘记录一下吧🐷&lt;/p&gt;
@@ -494,9 +494,9 @@ M834 80h400000v40h-400000z&#39;/&gt;&lt;/svg&gt;&lt;/span&gt;&lt;/span&gt;&lt;/s
         <updated>2020-08-16T13:14:19.000Z</updated>
     </entry>
     <entry>
-        <id>http://uncleacc.top/2020/08/15/jifen5/</id>
+        <id>http://uncleacc.top/jifen5.html</id>
         <title>积分赛5</title>
-        <link rel="alternate" href="http://uncleacc.top/2020/08/15/jifen5/"/>
+        <link rel="alternate" href="http://uncleacc.top/jifen5.html"/>
         <content type="html">&lt;blockquote&gt;
 &lt;p&gt;&lt;s&gt;最友好的一次积分赛 2333&lt;/s&gt; 应该也是最后一个个人积分赛了，不知道最后一次会不会是团队赛，再说吧，已经八月十五了，自从集训以来每天都有训练，虽然晚上一般都是有些时间去记录一些题解的，但是懒癌晚期的我真的不想去写，终于今天下定决心，趁着这两天我要补一下题解，把最近有意义的题目记录一下，也算是一个复习吧🎉&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -600,9 +600,9 @@ M834 80h400000v40h-400000z&#39;/&gt;&lt;/svg&gt;&lt;/span&gt;&lt;/span&gt;&lt;/s
         <updated>2020-08-15T14:19:23.000Z</updated>
     </entry>
     <entry>
-        <id>http://uncleacc.top/2020/08/10/jifen4/</id>
+        <id>http://uncleacc.top/jifen4.html</id>
         <title>积分赛4</title>
-        <link rel="alternate" href="http://uncleacc.top/2020/08/10/jifen4/"/>
+        <link rel="alternate" href="http://uncleacc.top/jifen4.html"/>
         <content type="html">&lt;p&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9wYW4uYmFpZHUuY29tL3MvMWFXdXZTdVFXN0x5bFBBWDNwTk9uNFE=&#34;&gt;题目面板&lt;/span&gt; 提取码：k2fu&lt;/p&gt;
 &lt;h2 id=&#34;a-胡图图的数学难题&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#a-胡图图的数学难题&#34;&gt;#&lt;/a&gt; &lt;strong&gt;A.&lt;/strong&gt; 胡图图的数学难题&lt;/h2&gt;
 &lt;p&gt;这道题很有意思让你求斐波那契数列的平方和，&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2xhbmNodW5odWkvYXJ0aWNsZS9kZXRhaWxzLzUxODQwNjE2P3V0bV9zb3VyY2U9YmxvZ3hnd3o1&#34;&gt;一篇易懂的题解&lt;/span&gt; 得到公式以后直接一个矩阵快速幂就解决了&lt;/p&gt;
@@ -787,9 +787,9 @@ int main()&amp;#123;
         <updated>2020-08-10T14:53:10.000Z</updated>
     </entry>
     <entry>
-        <id>http://uncleacc.top/2020/08/05/dfsjiyihuasousuo/</id>
+        <id>http://uncleacc.top/dfsjiyihuasousuo.html</id>
         <title>dfs记忆化搜索</title>
-        <link rel="alternate" href="http://uncleacc.top/2020/08/05/dfsjiyihuasousuo/"/>
+        <link rel="alternate" href="http://uncleacc.top/dfsjiyihuasousuo.html"/>
         <content type="html">&lt;blockquote&gt;
 &lt;p&gt;dfs 标记的位置太重要了，放在不同位置产生的效果都有巨大的差别，记录今天的一些 dfs 记忆化搜索题目&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -890,9 +890,9 @@ int main()
         <updated>2020-08-05T03:08:45.000Z</updated>
     </entry>
     <entry>
-        <id>http://uncleacc.top/2020/08/02/jifen3/</id>
+        <id>http://uncleacc.top/jifen3.html</id>
         <title>积分赛3</title>
-        <link rel="alternate" href="http://uncleacc.top/2020/08/02/jifen3/"/>
+        <link rel="alternate" href="http://uncleacc.top/jifen3.html"/>
         <content type="html">&lt;blockquote&gt;
 &lt;p&gt;学习了最短路后，感觉自己理解真的很一般，只会一些模板题目，稍微变一下就死了，而且发现我的思维很死，只会写套路题，做那些稍微灵活一点的题目感觉就很吃力，希望以后能有好转&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -1265,9 +1265,9 @@ int main()
         <updated>2020-08-02T12:42:26.000Z</updated>
     </entry>
     <entry>
-        <id>http://uncleacc.top/2020/07/26/jifen2/</id>
+        <id>http://uncleacc.top/jifen2.html</id>
         <title>积分赛2</title>
-        <link rel="alternate" href="http://uncleacc.top/2020/07/26/jifen2/"/>
+        <link rel="alternate" href="http://uncleacc.top/jifen2.html"/>
         <content type="html">&lt;blockquote&gt;
 &lt;p&gt;前两天打了第二场积分赛，难度明显比上次高，感觉更考验思维了，收集了一些我认为有价值的题目，因为太懒了，不想自己写思路题解了，搬来了别人的代码和题解，以后争取养成保存代码的习惯🐷&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -1570,9 +1570,9 @@ int main()&amp;#123;
         <updated>2020-07-26T10:44:23.000Z</updated>
     </entry>
     <entry>
-        <id>http://uncleacc.top/2020/07/23/BFSPratice/</id>
+        <id>http://uncleacc.top/BFSPratice.html</id>
         <title>BFS练习</title>
-        <link rel="alternate" href="http://uncleacc.top/2020/07/23/BFSPratice/"/>
+        <link rel="alternate" href="http://uncleacc.top/BFSPratice.html"/>
         <content type="html">&lt;h2 id=&#34;a-red-and-black&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#a-red-and-black&#34;&gt;#&lt;/a&gt; A - Red and Black&lt;/h2&gt;
 &lt;blockquote&gt;
 &lt;p&gt;There is a rectangular room, covered with square tiles. Each tile is colored either red or black. A man is standing on a black tile. From a tile, he can move to one of four adjacent tiles. But he can&#39;t move on red tiles, he can move only on black tiles.&lt;/p&gt;
@@ -1872,9 +1872,9 @@ X....G...X
         <updated>2020-07-23T10:12:40.000Z</updated>
     </entry>
     <entry>
-        <id>http://uncleacc.top/2020/07/21/juzhenkuaisumi/</id>
+        <id>http://uncleacc.top/juzhenkuaisumi.html</id>
         <title>浅谈矩阵快速幂</title>
-        <link rel="alternate" href="http://uncleacc.top/2020/07/21/juzhenkuaisumi/"/>
+        <link rel="alternate" href="http://uncleacc.top/juzhenkuaisumi.html"/>
         <content type="html">&lt;blockquote&gt;
 &lt;p&gt;集训开始了对矩阵快速幂的讲解，但是讲解的非常不好，基本没讲，这导致我这个之前就不知道矩阵快速幂的蒟蒻不得不自己乖乖的去网上查资料学习，找到了两个比较不错的视频讲解，具体可以看&lt;strong&gt;清单&lt;/strong&gt;里面的&lt;strong&gt;转载&lt;/strong&gt;，我来记录一下矩阵快速幂的基本用法🐷&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -1911,9 +1911,9 @@ X....G...X
         <updated>2020-07-21T07:24:31.000Z</updated>
     </entry>
     <entry>
-        <id>http://uncleacc.top/2020/07/15/jixun4/</id>
+        <id>http://uncleacc.top/jixun4.html</id>
         <title>贪心与二分</title>
-        <link rel="alternate" href="http://uncleacc.top/2020/07/15/jixun4/"/>
+        <link rel="alternate" href="http://uncleacc.top/jixun4.html"/>
         <content type="html">&lt;blockquote&gt;
 &lt;p&gt;被虐惨了，各种调试与超时或者看不懂题🐷&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -2092,9 +2092,9 @@ NO
         <updated>2020-07-15T12:33:21.000Z</updated>
     </entry>
     <entry>
-        <id>http://uncleacc.top/2020/07/14/jixun3/</id>
+        <id>http://uncleacc.top/jixun3.html</id>
         <title>集训前缀和与差分</title>
-        <link rel="alternate" href="http://uncleacc.top/2020/07/14/jixun3/"/>
+        <link rel="alternate" href="http://uncleacc.top/jixun3.html"/>
         <content type="html">&lt;h2 id=&#34;程序设计蒜头君的数轴&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#程序设计蒜头君的数轴&#34;&gt;#&lt;/a&gt; 程序设计：蒜头君的数轴&lt;/h2&gt;
 &lt;p&gt;题目来源 ：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9uYW50aS5qaXN1YW5rZS5jb20vdC9BMTYzMw==&#34;&gt;点击我&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;今天蒜头君拿到了一个数轴，上边有 n 个点，但是蒜头君嫌这根数轴不够优美，想要通过加一些点让它变优美，所谓优美是指考虑相邻两个点的距离，最多只有一对点的距离与其它的不同。&lt;/p&gt;
@@ -2212,9 +2212,9 @@ int main()&amp;#123;
         <updated>2020-07-14T09:35:43.000Z</updated>
     </entry>
     <entry>
-        <id>http://uncleacc.top/2020/07/13/jixun2/</id>
+        <id>http://uncleacc.top/jixun2.html</id>
         <title>STL集训典型题目</title>
-        <link rel="alternate" href="http://uncleacc.top/2020/07/13/jixun2/"/>
+        <link rel="alternate" href="http://uncleacc.top/jixun2.html"/>
         <content type="html">&lt;blockquote&gt;
 &lt;p&gt;自己找题，做课件，还得学习新的东西，不得不说确实挺费时间的，光找找题目就花了 2 个小时左右，还是因为自己的题量少的原因，只能去搜一些题目自己再做做，不过粘贴题目 AC 的感觉真的美妙🐷&lt;/p&gt;
 &lt;/blockquote&gt;
