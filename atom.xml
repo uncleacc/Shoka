@@ -96,9 +96,9 @@
         <updated>2020-11-30T14:11:18.000Z</updated>
     </entry>
     <entry>
-        <id>http://uncleacc.top/2020/11/23/bz&amp;&amp;tarjan/</id>
+        <id>http://uncleacc.top/2020/11/23/bzyutarjan/</id>
         <title>倍增与tarjan求解lca</title>
-        <link rel="alternate" href="http://uncleacc.top/2020/11/23/bz&amp;&amp;tarjan/"/>
+        <link rel="alternate" href="http://uncleacc.top/2020/11/23/bzyutarjan/"/>
         <content type="html">&lt;blockquote&gt;
 &lt;p&gt;&lt;strong&gt;倍增&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;以倍增方式向上跳，时间复杂度是 O (q*logn)&lt;/p&gt;
