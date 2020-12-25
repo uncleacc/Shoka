@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://uncleacc.top</id>
-    <title>Hexo</title>
+    <title>Blog</title>
     <subtitle>uncleacc</subtitle>
     <icon>http://uncleacc.top/images/favicon.ico</icon>
     <link href="http://uncleacc.top" />

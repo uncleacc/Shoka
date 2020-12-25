@@ -1,14 +1,14 @@
 <?xml version="1.0"?>
 <rss version="2.0">
     <channel>
-        <title>Hexo</title>
+        <title>Blog</title>
         <subtitle>uncleacc</subtitle>
         <icon>http://uncleacc.top/images/favicon.ico</icon>
         <link>http://uncleacc.top</link>
         <author>
           <name>Uncleacc</name>
         </author>
-        <description>真正的大师永远有一颗学徒的心</description>
+        <description>没有一个万能的口袋就用手去实现理想</description>
         <language>zh-CN</language>
         <pubDate>Thu, 10 Dec 2020 21:48:52 +0800</pubDate>
         <lastBuildDate>Thu, 10 Dec 2020 21:48:52 +0800</lastBuildDate>

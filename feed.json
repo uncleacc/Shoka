@@ -1,9 +1,9 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "Hexo",
+    "title": "Blog",
     "subtitle": "uncleacc",
     "icon": "http://uncleacc.top/images/favicon.ico",
-    "description": "真正的大师永远有一颗学徒的心",
+    "description": "没有一个万能的口袋就用手去实现理想",
     "home_page_url": "http://uncleacc.top",
     "items": [
         {
