@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://uncleacc.top/app/index.html</loc>
+    
+    <lastmod>2020-12-26</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://uncleacc.top/shuoshuo/index.html</loc>
     
     <lastmod>2020-12-26</lastmod>
@@ -564,14 +571,14 @@
   </url>
   
   <url>
-    <loc>https://uncleacc.top/tags/dfs/</loc>
+    <loc>https://uncleacc.top/tags/%E9%AB%98%E7%B2%BE/</loc>
     <lastmod>2020-12-26</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://uncleacc.top/tags/%E9%AB%98%E7%B2%BE/</loc>
+    <loc>https://uncleacc.top/tags/dfs/</loc>
     <lastmod>2020-12-26</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
