@@ -1,7 +1,7 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "Blog",
-    "subtitle": "uncleacc",
+    "title": "Pocket Blog",
+    "subtitle": null,
     "icon": "https://uncleacc.top/images/favicon.ico",
     "description": "没有一个万能的口袋就用手去实现理想",
     "home_page_url": "https://uncleacc.top",

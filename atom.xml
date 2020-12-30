@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://uncleacc.top</id>
-    <title>Blog</title>
-    <subtitle>uncleacc</subtitle>
+    <title>Pocket Blog</title>
+    <subtitle></subtitle>
     <icon>https://uncleacc.top/images/favicon.ico</icon>
     <link href="https://uncleacc.top" />
     <author>
