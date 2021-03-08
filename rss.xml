@@ -22,7 +22,7 @@
             <category term="比赛" scheme="https://uncleacc.top/tags/%E6%AF%94%E8%B5%9B/" />
             <pubDate>Mon, 08 Mar 2021 15:04:09 +0800</pubDate>
             <description><![CDATA[ &lt;h2 id=&#34;early-orders&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#early-orders&#34;&gt;#&lt;/a&gt; Early Orders&lt;/h2&gt;
-&lt;img data-src=&#34;C:\Users\60116\AppData\Roaming\Typora\typora-user-images\image-20210308150507708.png&#34; alt=&#34;image-20210308150507708&#34; style=&#34;zoom: 67%;&#34; /&gt;
+&lt;img data-src=&#34;https://cdn.jsdelivr.net/gh/uncleacc/sucai_2/20210308172548.png&#34; alt=&#34;image-20210308150507708&#34; style=&#34;zoom: 67%;&#34; /&gt;
 &lt;h3 id=&#34;题意&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#题意&#34;&gt;#&lt;/a&gt; 题意&lt;/h3&gt;
 &lt;p&gt;n 个数从中找出一个包含 1-k 的字典序最小子串，注意子串可以断开，但是相对顺序不能变&lt;/p&gt;
 &lt;h3 id=&#34;题解&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#题解&#34;&gt;#&lt;/a&gt; 题解&lt;/h3&gt;
